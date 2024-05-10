@@ -12,4 +12,4 @@ Since the release of Alphafold2, there have been a lot of open-source tools that
 -  Fragfold: igh-throughput computational discovery of inhibitory protein fragments with AlphaFold [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.19.572389v1) [[code]](https://github.com/swanss/FragFold)
 -  GlycoSHIELD is a simple MD pipeline to generate realistic glycoprotein models. [[paper]](https://doi.org/10.1016/j.cell.2024.01.034) [[code]](https://github.com/GlycoSHIELD-MD/GlycoSHIELD-MD)
 -  LightDock is a protein-protein, protein-peptide and protein-DNA docking framework based on the Glowworm Swarm Optimization (GSO) algorithm. [[paper]](https://doi.org/10.1093/bioinformatics/btx555) [[code]](https://github.com/lightdock/lightdock)
--  
+-  NeuralPlexer: A deep generative model to jointly predict protein-ligand complex 3D structures and beyond, Nature intelligence, 2024. [[paper]](https://www.nature.com/articles/s42256-024-00792-z) [[code]](https://github.com/zrqiao/NeuralPLexer)
